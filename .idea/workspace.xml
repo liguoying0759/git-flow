@@ -44,7 +44,8 @@
       <option name="presentableId" value="Default" />
       <updated>1627045601013</updated>
       <workItem from="1627045602925" duration="148000" />
-      <workItem from="1627045807867" duration="1150000" />
+      <workItem from="1627045807867" duration="1793000" />
+      <workItem from="1627047619054" duration="375000" />
     </task>
     <servers />
   </component>
@@ -81,6 +82,16 @@
               <RecentGroup>
                 <option name="FILTER_VALUES">
                   <option value="develop" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="feature/mes02" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/develop" />
                 </option>
               </RecentGroup>
               <RecentGroup>
